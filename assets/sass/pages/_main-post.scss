@@ -1,0 +1,16 @@
+.main-post-bootstrap {
+    margin: 100px auto 0 auto;
+    width: 90%;
+  }
+  .main-post-bootstrap__relacionados-box {
+    width: 30%;
+  }
+  .main-post-bootstrap__relacionados-box__title {
+    padding: 30px;
+  }
+
+  .main-post-bootstrap__relacionados {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }

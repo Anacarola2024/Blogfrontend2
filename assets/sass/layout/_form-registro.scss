@@ -1,0 +1,37 @@
+
+.form-registro {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px;
+}
+.form-registro__titulo {
+  padding-bottom: 8px;
+}
+.form-registro__container-checkbox {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+}
+.form-registro__text-checkbox {
+  font-size: 18px;
+  color: rgb(39, 37, 37);
+}
+.form-registro__text-recupera-password {
+  font-size: 18px;
+  color: rgb(39, 37, 37);
+}
+.form-registro__container-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 8px 0;
+}
+.form-registro__footer {
+  color: rgb(39, 37, 37);
+  margin-top: 8px;
+}
+.form-registro__footer a {
+  color: rgb(39, 37, 37);
+  text-decoration: none;}
+  

@@ -1,0 +1,24 @@
+
+.noticias {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 30px;
+    background-color: #63af2b;
+    border-radius: 15px;
+  }
+  .noticias__text {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom: 10px;
+  }
+  .noticias__form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 0 auto;
+  }
+  

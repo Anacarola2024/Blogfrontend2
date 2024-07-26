@@ -1,0 +1,36 @@
+.form-login {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px;
+}
+.form-login__titulo {
+  padding-bottom: 8px;
+}
+.form-login__container-checkbox {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+}
+.form-login__text-checkbox {
+  font-size: 18px;
+  color: rgb(39, 37, 37);
+}
+.form-login__text-recupera-password {
+  font-size: 18px;
+  color: rgb(39, 37, 37);
+}
+.form-login__container-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 8px 0;
+}
+.form-login__footer {
+  color: rgb(39, 37, 37);
+  margin-top: 8px;
+}
+.form-login__footer a {
+  color: rgb(39, 37, 37);
+  text-decoration: none;
+}

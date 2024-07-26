@@ -1,0 +1,33 @@
+.btn {
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .btn a {
+    color: rgb(39, 37, 37);
+    text-decoration: none;
+  }
+  .btn--adl {
+    background-color: #63af2b;
+  }
+  .btn--adl a {
+    color: #fff;
+    font-size: 20px;}
+  
+  .btn--google {
+    background-color: #fff;
+    border: 1px solid rgba(121, 117, 117, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    font-size: 20px;
+  }
+  .btn--news {
+    background-color: #ccc;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+  }
